@@ -1,12 +1,11 @@
-<div align="center">
-
 ## Hi, I'm Krish Chaudhary ❄️
 
 🎓 Currently pursuing BSc(Hons) Computing at Ithari International College  
 💻 Passionate about app development with Flutter  
 🧠 Currently learning Flutter app development concepts  
 🔧 Skills: HTML, CSS, JavaScript, Flutter, Java, Python, Dart  
-
+<div align="center">
+  
 ---
 
 ## 🌐 Socials:
