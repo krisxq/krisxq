@@ -1,13 +1,11 @@
 <div align="center">
 
-# 💫 About Me:
-## Hi, I'm Krish Chaudhary 👋
+## Hi, I'm Krish Chaudhary ❄️
 
 🎓 Currently pursuing BSc(Hons) Computing at Ithari International College  
-💻 Passionate about web development (HTML, CSS, JS) and app development with Flutter  
+💻 Passionate about app development with Flutter  
 🧠 Currently learning Flutter app development concepts  
 🔧 Skills: HTML, CSS, JavaScript, Flutter, Java, Python, Dart  
-📫 Reach me at: krishfwx99@gmail.com  
 
 ---
 
@@ -35,10 +33,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=krisxq&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=krisxq&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krisxq&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
 </div>
