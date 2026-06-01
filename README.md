@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="320" src="https://tenor.com/view/elmo-thunder-gif-12003010808141082270"/>
 
 ### 🧑‍💻 About Me
 
