@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="[https://media.tenor.com/osP40vLC2CU/gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo4eGd5MG1rbzV5YjJmcTRmb2kwMHhnOHc5bWtpa2I1NDU5MzN6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LqSP6u8qwmqrxh8Ob/giphy.gif)"/>
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo4eGd5MG1rbzV5YjJmcTRmb2kwMHhnOHc5bWtpa2I1NDU5MzN6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LqSP6u8qwmqrxh8Ob/giphy.gif"/>
 
 ### 🧑‍💻 About Me
 
@@ -57,13 +57,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krisxq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1520&title_color=63b4ff&icon_color=a78bfa&text_color=93c5fd&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisxq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1520&title_color=63b4ff&text_color=93c5fd" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=krisxq&theme=tokyonight&hide_border=true&background=0d1520&ring=63b4ff&fire=a78bfa&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=6b8cad&stroke=1a3a5c)
 
 </div>
@@ -89,6 +82,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/krishfwx99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishfwx99@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/krisxq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisxq)
 
 </div>
 
@@ -98,6 +92,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b4ff,50:1a3a5c,100:0d1520&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"Learning, building, and growing 🪬"*
+*"Learning, building, and growing — one commit at a time ❄️"*
 
 </div>
