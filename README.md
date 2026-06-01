@@ -14,24 +14,17 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://tenor.com/view/elmo-thunder-gif-12003010808141082270"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/osP40vLC2CU/gif"/>
 
 ### 🧑‍💻 About Me
 
-```dart
-class KrishChaudhary {
-  final String name     = "Krish Chaudhary ❄️";
-  final String degree   = "BSc (Hons) Computing";
-  final String college  = "Ithari International College";
-  final String passion  = "Flutter App Development";
-  final List<String> currentlyLearning = [
-    "Flutter Architecture",
-    "State Management",
-    "Clean Code Patterns",
-  ];
-  final String motto = "Learning, building, and growing.";
-}
-```
+- 🎓 Pursuing **BSc (Hons) Computing** at Ithari International College
+- 💙 Passionate about building cross-platform mobile apps with **Flutter & Dart**
+- 🧠 Currently learning **Flutter Architecture**, **State Management** & **Clean Code Patterns**
+- 🌐 Exploring backend development with **Django & MongoDB**
+- 🎨 Focused on clean **UI/UX** and responsive design principles
+- 🚀 Continuously shipping projects to sharpen real-world skills
+- ❄️ Motto — *"Learning, building, and growing."*
 
 <br clear="right"/>
 
