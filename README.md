@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo4eGd5MG1rbzV5YjJmcTRmb2kwMHhnOHc5bWtpa2I1NDU5MzN6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LqSP6u8qwmqrxh8Ob/giphy.gif"/>
+<img align="right" alt="Coding" width="150" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo4eGd5MG1rbzV5YjJmcTRmb2kwMHhnOHc5bWtpa2I1NDU5MzN6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LqSP6u8qwmqrxh8Ob/giphy.gif"/>
 
 ### 🧑‍💻 About Me
 
@@ -81,8 +81,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/krishfwx99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishfwx99@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/krisxq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisxq)
+[![Gmail](https://img.shields.io/badge/krishfwx99@gmail.com-D14836?style=flat-for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:krishfwx99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/krisxq-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisxq)
 
 </div>
 
