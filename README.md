@@ -53,15 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=krisxq&theme=tokyonight&hide_border=true&background=0d1520&ring=63b4ff&fire=a78bfa&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=6b8cad&stroke=1a3a5c)
-
-</div>
-
----
 
 ### 🎯 Focus Areas
 
