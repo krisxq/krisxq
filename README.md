@@ -24,7 +24,6 @@
 - 🌐 Exploring backend development with **Django & MongoDB**
 - 🎨 Focused on clean **UI/UX** and responsive design principles
 - 🚀 Continuously shipping projects to sharpen real-world skills
-- ❄️ Motto — *"Learning, building, and growing."*
 
 <br clear="right"/>
 
