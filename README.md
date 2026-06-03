@@ -82,6 +82,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b4ff,50:1a3a5c,100:0d1520&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"Learning, building, and growing."*
+*"Learning, building, and growing."* 
+
 
 </div>
