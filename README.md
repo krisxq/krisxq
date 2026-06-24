@@ -21,7 +21,7 @@
 - 🎓 Pursuing **BSc (Hons) Computing** at Ithari International College
 - 💙 Passionate about building cross-platform mobile apps with **Flutter & Dart**
 - 🧠 Currently learning **Flutter Architecture**, **State Management** & **Clean Code Patterns**
-- 🌐 Exploring backend development with **Django & MongoDB**
+- 🌐 Exploring backend development with **FastAPI & MongoDB**
 - 🎨 Focused on clean **UI/UX** and responsive design principles
 - 🚀 Continuously shipping projects to sharpen real-world skills
 
@@ -33,9 +33,6 @@
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -43,7 +40,7 @@
 **Frameworks & Tools**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
@@ -59,7 +56,6 @@
 
 ![App Development](https://img.shields.io/badge/📱_App_Development-0d1520?style=for-the-badge&color=0d1520&labelColor=1a3a5c)
 ![Flutter & Dart](https://img.shields.io/badge/🐦_Flutter_%26_Dart-0d1520?style=for-the-badge&color=0d1520&labelColor=02569B)
-![Web Development](https://img.shields.io/badge/🌐_Web_Development-0d1520?style=for-the-badge&color=0d1520&labelColor=1a5c3a)
 ![Backend & DBs](https://img.shields.io/badge/🗄️_Backend_%26_DBs-0d1520?style=for-the-badge&color=0d1520&labelColor=5c3a1a)
 ![UI / UX](https://img.shields.io/badge/🎨_UI_%2F_UX-0d1520?style=for-the-badge&color=0d1520&labelColor=3a1a5c)
 
